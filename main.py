@@ -4,4 +4,3 @@ from tasks.task2 import Task2
 
 if __name__ == '__main__':
     pass
-    Task2().run2()
