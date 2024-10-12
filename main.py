@@ -6,8 +6,8 @@ from tasks.task5 import Task5
 from tasks.task6 import Task6
 from tasks.task7 import Task7
 from tasks.task8 import Task8
+from tasks.task9 import Task9
 
 
 if __name__ == '__main__':
     pass
-    Task8().run2()
